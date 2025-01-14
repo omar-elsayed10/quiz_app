@@ -1,0 +1,2 @@
+# quiz_app
+This Quiz App is a simple project designed to practice and reinforce core JavaScript concepts. The app allows users to answer multiple-choice questions, track their progress, and view their final score.
