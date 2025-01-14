@@ -16,7 +16,7 @@
     "right_answer": "No Its for  anchor Tag <a>"
   },
   {
-    "title": "How can we make Eleement Text Bold",
+    "title": "How can we make Element Text Bold",
     "answer_1": "Putting it inside <b> tag",
     "answer_2": "Putting it inside <strong> tag",
     "answer_3": "Customizing it with Font-weight property in CSS",
