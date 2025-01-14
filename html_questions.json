@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Why We use <br> Element",
+    "answer_1": "to make text bold",
+    "answer_2": "to create a new paragraph",
+    "answer_3": "to create a new line",
+    "answer_4": "to create a new list",
+    "right_answer": "to create a new line"
+  },
+  {
+    "title": "Is <img> Element has attribute herf",
+    "answer_1": "yes",
+    "answer_2": "No Its for  anchor Tag <a>",
+    "answer_3": "All elements has this attribute",
+    "answer_4": "Answer 1 and 3 Is Right",
+    "right_answer": "No Its for  anchor Tag <a>"
+  },
+  {
+    "title": "How can we make Eleement Text Bold",
+    "answer_1": "Putting it inside <b> tag",
+    "answer_2": "Putting it inside <strong> tag",
+    "answer_3": "Customizing it with Font-weight property in CSS",
+    "answer_4": "All Answers are Right",
+    "right_answer": "All Answers are Right"
+  },
+  {
+    "title": "What is the right hierarchy for creating part of page",
+    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+    "answer_4": "All solutions are wrong",
+    "right_answer": "All solutions are wrong"
+  },
+  {
+    "title": "How can include external Page inside our HTML Page",
+    "answer_1": "By using include in HTML",
+    "answer_2": "By using Load in HTML",
+    "answer_3": "By using iFrame Tag",
+    "answer_4": "All Solutions is wrong",
+    "right_answer": "By using iFrame Tag"
+  },
+  {
+    "title": "What is the tag that not exists in HTML",
+    "answer_1": "<object>",
+    "answer_2": "<basefront>",
+    "answer_3": "abbr>",
+    "answer_4": "All tags is exists in HTML",
+    "right_answer": "All tags is exists in HTML"
+  },
+  {
+    "title": "Whats is the element thats not exists in HTML semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML can we use this way to add attributes",
+    "answer_1": "<div class='class_name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All is right",
+    "right_answer": "All is right"
+  },
+  {
+    "title": "How we specify Document Type of HTML5 Page",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  }
+]
